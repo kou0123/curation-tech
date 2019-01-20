@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.d6575a480bff35d6e16c240a2214e61a.js"
+  "/curation-tech/precache-manifest.0a2bac81aba578fa1e86c4f73ca09beb.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "tech-info"});
